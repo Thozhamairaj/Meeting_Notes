@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## MeetMind AI
 
 AI Meeting Notes & Action Item Generator. Built during a 30-hour hackathon with React + Vite, Tailwind CSS, and shadcn-style components.
@@ -22,3 +23,6 @@ AI Meeting Notes & Action Item Generator. Built during a 30-hour hackathon with 
 - React 19 + Vite + TypeScript
 - Tailwind CSS v4 (no config file) with custom glassmorphic theme
 - shadcn-inspired UI with lucide-react icons
+=======
+# Meeting_Notes
+>>>>>>> e50f0a66054bc12b665a288469653a7c0753b0f4
