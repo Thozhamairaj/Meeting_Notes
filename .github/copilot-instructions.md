@@ -1,0 +1,13 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements (React + Tailwind dashboard UI provided by user).
+- [x] Scaffold the Project (React + Vite with TypeScript and Tailwind).
+- [x] Customize the Project (landing, auth placeholder, dashboard, history, exports UI).
+- [x] Install Required Extensions (none required).
+- [x] Compile the Project (npm run lint).
+- [ ] Create and Run Task (skip for now; no extra task runner needed).
+- [ ] Launch the Project (run dev server on demand).
+- [ ] Ensure Documentation is Complete (README updated; confirm once final).
+
+- Work through each checklist item systematically.
+- Keep communication concise and focused.
+- Follow development best practices.
